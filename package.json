@@ -1,0 +1,23 @@
+{
+  "name": "dummy-package",
+  "version": "1.0.0",
+  "description": "Trying to publish dummy package for my project",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishant4398/publish-node-package.git"
+  },
+  "author": "ishant-Kushwaha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishant4398/publish-node-package/issues"
+  },
+  "homepage": "https://github.com/ishant4398/publish-node-package#readme"
+}
